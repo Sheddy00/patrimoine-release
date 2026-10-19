@@ -2,7 +2,7 @@
 
 # --- Configuration ---
 # LAST_VERSION="0.4.2" # put here the latest version number
-LAST_VERSION="0.4.3"
+LAST_VERSION="0.4.4"
 # LINK='https://www.dropbox.com/scl/fi/mhm61etp71kfkowmg2wjw/patrimoine.jar?rlkey=2kqehqi78s17ibmsom6g7y0jv&st=otbfigpk&dl=1'
 LINK='https://patrimoine.hei.school/latest' 
 
