@@ -1,5 +1,5 @@
 # Scripts
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/RickaPrincy/patrimoine-release/main/main.sh)
+bash <(curl -s https://raw.githubusercontent.com/Sheddy00/patrimoine-release/main/main.sh)
 ```
